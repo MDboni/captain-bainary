@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #0d1224!important;
+}
+
+.nav-logo{
+    height: 55px;
+}
+
+
+.nav-menu > a:hover{
+    color: #8345ff !important;
+}
+
+/* hero part  */
+
+.text-p{
+    color: white;
+    font-size: 22px;
+    line-height: 1.625;
+    font-weight: 400
+}
+.hero-text-2{
+    color: #16f8b6;
+}
+.hero-text-3{
+    color: #f926ae;
+}
+
+
+.common{
+    color: white;
+}
+
+.common:hover{
+    box-shadow: 1px solid red;
+}
+
+/* section 2 */
+
+.text-small{
+    font-size: 12px;
+    color: white;
+   
+}
+
+.card{
+    background-color: #11152b;
+    border: 1px solid #26204d;
+    box-shadow: 0px 0px 3px #26204d ;
+}
+
+.card:hover{
+    box-shadow: 5px #26204d ;
+   
+}
+
+/* section3  */
+
+.sec-5-p{
+    color: wheat;
+    font-size: 14px;
+}
+
+.img-card{
+    background-color: #11152b;
+}
+
+
+
+.card-img-top {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 10px;
+}
+
+.text-box{
+    color: #8345ff;
+}
+
+/* section 4 */
+.card {
+    background-color: #11152b;
+    border: 2px solid #26204d;
+    box-shadow: 0px 0px 3px #26204d;
+    overflow: hidden;
+}
+.headline-text{
+    color: #6a68e3;
+}
+
+.headline-pragraph{
+    color: wheat;
+    font-size: 14px;
+}
+
+.code-text{
+    font-size: 15px;
+    color: white;
+}
+
+/* sectio 5  */
+
+.border-dark{
+    border-color: #344767!important;
+}
+.bg-dark{
+    background-color: #0d1224!important;
+}
+
+.contact-{
+    background-color: #646ee3;
+}
+
+.contact-:hover{
+    background-color: #646ee3;
+}
+
+.w-70{
+    height: 60%;
+}
+
+
+.bt-form{
+    margin-bottom: 200px;
+}
+
